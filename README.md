@@ -1,4 +1,4 @@
-## EX - 6 Implementation Of Identity Management (Amazon IAM) For Your Team
+# EX - 6 Implementation Of Identity Management (Amazon IAM) For Your Team
 
 ---
 
